@@ -21,4 +21,4 @@ int main() {
     printf("Gross Salary = %d", gross_salary);
 
     return 0;
-}
+}x
