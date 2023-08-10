@@ -14,8 +14,9 @@ int main(){
     printf("4*7=%d\n",a*7) ;
     printf("4*8=%d\n",a*8) ;
     printf("4*9=%d\n",a*9) ;
-    printf("4*10=%d\n",a*10) ;
+    printf("4*10=%d\n",a*10);
 
+    
     return 0;
 
 }
