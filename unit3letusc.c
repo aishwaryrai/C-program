@@ -27,6 +27,7 @@ int main(){
 }
 */
 
+
 /*Any year is input through the keyboard. 
 Write a program to determine whether the year is a leap year or not.
 (Hint: Use the % (modulus) operator)
@@ -52,6 +53,7 @@ return 0;
 
 }
 */
+
 
 /*Given three points (x1, y1), (x2, y2) and (x3, y3).
  write a program to check if all the three points fall on one straight line.
