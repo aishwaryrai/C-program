@@ -18,7 +18,7 @@ int main(){
     %lf is for double,
     %LF is for long double .*/
 
-    /* %a.bf will print variable with b decimal points in a 'a' character space*/
+    /* %a.bf will print variable with b decimal points in 'a' character space*/
     float c = 4.6578586;
 
     printf("The value of c is %f \n", c );
@@ -39,12 +39,12 @@ const int d=6;
 
 // d=7; this line cannot be processed by the compiler as d is constant.
 
-printf(" %d \n" , d);
+printf(" %d \n" , d); 
 
 
 //pi=6.8; this line cannot be processed by the compiler as pi is constant. line 2 #define preprocessor
 
-printf(" %f \n ", pi);
+printf(" %f \n ", pi); 
 
     return 0;
 
